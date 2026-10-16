@@ -1,8 +1,3 @@
-# harjoittelu1
+![kuva](https://upload.wikimedia.org/wikipedia/commons/7/7a/SpongeBob_SquarePants_character.png?utm_source=fi.wikipedia.org&utm_campaign=index&utm_content=original)
 
-Tämä on Gitin, GitHubin ja VS Coden harjoittelu
 
-## Mitä harjoittelen?
- - Gitin peruskomentoja
- - Branchien käyttöä
- - Muutosten lähettämistä GitHubiin
